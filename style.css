@@ -1,0 +1,30 @@
+main{
+    width: 250px;
+    border-radius: 10px;
+    padding: 10px;
+    border: 2px dotted salmon;
+}
+
+main div{
+    width: 100%;
+}
+main button{
+    width: 100%;
+    padding: 5px;
+    font-weight: bold;
+    background: rgb(12, 220, 12);
+    cursor: pointer;
+    font-size: 18px;
+    border-radius: 8px;
+}
+main button:hover{
+    background: rgb(3, 88, 3);
+    color: white;
+}
+#title{
+    text-align: center;
+    font-size: 17px;
+    font-weight: bold;
+    font-style: italic;
+    color: chocolate;
+}
